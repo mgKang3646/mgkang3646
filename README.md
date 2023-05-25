@@ -20,7 +20,7 @@
 <div align="left">
 	<a href="https://www.instagram.com/book_mingu/">
 	    <img 
-		src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/book_mingu/"
+		src="http://img.shields.io/badge/--white?style=flat&logo=Instagram&link=https://instagram.com/book_mingu/"
 		style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a>
 </div>
