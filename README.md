@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 기술스택
-<div align="center">
+### 기술스택
+<div align="left">
 	<img src="https://img.shields.io/badge/-JAVA-orange" />
 	<img src="https://img.shields.io/badge/-Python-9cf" />
 	<img src="https://img.shields.io/badge/-Spring-brightgreen" />
