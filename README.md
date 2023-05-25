@@ -8,20 +8,35 @@
 
 ### ✤ 기술스택
 <div align="left">
-	<img src="https://img.shields.io/badge/-JAVA-orange" />
-	<img src="https://img.shields.io/badge/-Python-9cf" />
-	<img src="https://img.shields.io/badge/-Spring-brightgreen" />
-	<img src="https://img.shields.io/badge/-SpringBoot-brightgreen" />
-	<img src="https://img.shields.io/badge/-JPA-blue" />
+	<img src="https://img.shields.io/badge/-JAVA-orange" 
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<img src="https://img.shields.io/badge/-Python-9cf"
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<img src="https://img.shields.io/badge/-Spring-brightgreen"
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<img src="https://img.shields.io/badge/-SpringBoot-brightgreen" 
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<img src="https://img.shields.io/badge/-JPA-blue" 
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
 
 ### ✤ SNS
 <div align="left">
+	<a href="https://lordofkangs.tistory.com/">
+	    <img 
+		src="http://img.shields.io/badge/-Tistory-orange?style=flat&logo=Tistory&link=https://lordofkangs.tistory.com/"
+		style="height : 25px; margin-left : 10px; margin-right : 10px;  "/>
+	</a>
 	<a href="https://www.instagram.com/book_mingu/">
 	    <img 
 		src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/book_mingu/"
-		style="height : 20px; margin-left : 10px; margin-right : 10px;"/>
+		style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	</a>
+	<a href="https://blog.naver.com/lordofkangs">
+	    <img 
+		src="http://img.shields.io/badge/-NaverBlog-white?style=flat&logo=Naver&link=https://blog.naver.com/lordofkangs"
+		style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 	</a>
 </div>
 
