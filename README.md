@@ -20,8 +20,8 @@
 <div align="left">
 	<a href="https://www.instagram.com/book_mingu/">
 	    <img 
-		src="http://img.shields.io/badge/--white?style=flat&logo=Instagram&link=https://instagram.com/book_mingu/"
-		style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+		src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/book_mingu/"
+		style="height : 20px; margin-left : 10px; margin-right : 10px;"/>
 	</a>
 </div>
 
