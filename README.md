@@ -18,8 +18,8 @@
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 	<img src="https://img.shields.io/badge/-JPA-blue" 
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<br/>
 </div>
-
 
 ### ✤ SNS
 <div align="left">
@@ -38,7 +38,28 @@
 		src="http://img.shields.io/badge/-NaverBlog-white?style=flat&logo=Naver&link=https://blog.naver.com/lordofkangs"
 		style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 	</a>
+	<br/>
 </div>
+
+### ✤ BOJ Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lordofkangs)](https://solved.ac/lordofkangs/)
+
+### ✤ 경력
+<p align="left">
+	<br> ➽ 국세청 NTIS 프로젝트 SA(SolutionsArchitect) </br>
+	<br> ➽ 금융투자소득세 프로젝트 SA(SolutionsArchitect)</br>
+	<br/>
+</p>
+
+### ✤ 수상경력
+<p align="left">
+	<br> ➽ 경상국립대 캡스톤 경진대회 동상 </br>
+	<br> ➽ 경상국립대 독서후기 공모전 장려상</br>
+	<br> ➽ 국방부 병영문학상 시부문 입선 </br>
+	<br/>
+</p>
+
+
 
 
 
