@@ -18,12 +18,14 @@
 
 ### ✤ SNS
 <div align="left">
-	<img src="https://img.shields.io/badge/-JAVA-orange" />
-	<img src="https://img.shields.io/badge/-Python-9cf" />
-	<img src="https://img.shields.io/badge/-Spring-brightgreen" />
-	<img src="https://img.shields.io/badge/-SpringBoot-brightgreen" />
-	<img src="https://img.shields.io/badge/-JPA-blue" />
+	<a href="https://www.instagram.com/book_mingu/">
+	    <img 
+		src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/book_mingu/"
+		style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a>
 </div>
+
+
 
 
 <!--
