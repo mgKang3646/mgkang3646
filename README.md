@@ -46,8 +46,8 @@
 
 ### ✤ 경력
 <p align="left">
-	<br> ➽ 국세청 NTIS 프로젝트 SA(SolutionsArchitect)(2022.01~2023.02)</br>
-	<br> ➽ 금융투자소득세 프로젝트 SA(SolutionsArchitect)(2022.06~2022.11)</br>
+	<br> ➽ 국세청 NTIS 프로젝트 SA (2022.01~2023.02)</br>
+	<br> ➽ 금융투자소득세 프로젝트 SA (2022.06~2022.11)</br>
 	<br/>
 </p>
 
