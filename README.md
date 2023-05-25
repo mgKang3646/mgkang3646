@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-
+## 기술스택
 <div align="center">
 	<img src="https://img.shields.io/badge/-JAVA-orange" />
+	<img src="https://img.shields.io/badge/-Python-9cf" />
 	<img src="https://img.shields.io/badge/-Spring-brightgreen" />
 	<img src="https://img.shields.io/badge/-SpringBoot-brightgreen" />
 	<img src="https://img.shields.io/badge/-JPA-blue" />
