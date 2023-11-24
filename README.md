@@ -44,19 +44,21 @@
 ### ✤ Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lordofkangs)](https://solved.ac/lordofkangs/)
 
-### ✤ 경력
+### ✤ Profile
 <p align="left">
 	<br> ➽ 구름톤 쿠버네티스 전문가 양성과정 11기 (23.09.08 ~ 현재) </br>
 	<br> ➽ 금융투자소득세 프로젝트 Solutions Architect (2022.06~2022.11)</br>
  	<br> ➽ 국세청 NTIS 프로젝트 Solutions Architect (2022.01~2023.02)</br>
+  	<br> ➽ 경상국립대학교 컴퓨터과학과 졸업 (2015.03~2022.02)</br>
 	<br/>
 </p>
 
-### ✤ 기타
+### ✤ ETC
 <p align="left">	
 	<br> ➽ 경상국립대 캡스톤 경진대회 동상 </br>
 	<br> ➽ 경상국립대 독서후기 공모전 장려상</br>
 	<br> ➽ 국방부 병영문학상 시부문 입선 </br>
+ 	<br> ➽ 정보 컴퓨터 정교사 2급 </br>
 	<br> ➽ TOEIC 905 </br>
 	<br/>
 </p>
