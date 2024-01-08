@@ -18,6 +18,8 @@
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 	<img src="https://img.shields.io/badge/-JPA-blue" 
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<img src="https://img.shields.io/badge/-QueryDSL-blue" 
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 	<br/>
 </div>
 
