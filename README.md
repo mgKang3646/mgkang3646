@@ -42,9 +42,6 @@
 	<br/>
 </div>
 
-### ✤ Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lordofkangs)](https://solved.ac/lordofkangs/)
-
 ### ✤ Profile
 <p align="left">
 	<br> ➽ N3N Server Engineer (2024.04 ~ )</br>
