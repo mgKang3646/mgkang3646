@@ -54,21 +54,6 @@
 	<br/>
 </p>
 
-### ✤ ETC
-<p align="left">
-	<br> ➽ Goorm Training 쿠버네티스 과정 11기 우수 프로젝트</br>
- 	<br> ➽ Goorm Training 쿠버네티스 과정 11기 우수 수료생 </br>
-	<br> ➽ 경상국립대학교 캡스톤 경진대회 동상 </br>
-	<br> ➽ 국방부 병영문학상 시부문 입선 </br>
- 	<br> ➽ 정보・컴퓨터 정교사 2급 </br>
-	<br> ➽ TOEIC 905 </br>
-	<br/>
-</p>
-
-
-
-
-
 
 <!--
 **mgKang3646/mgkang3646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
