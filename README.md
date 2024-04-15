@@ -47,10 +47,10 @@
 
 ### ✤ Profile
 <p align="left">
-	<br> ➽ N3N Server Engineer (2024.04 ~ 현재)</br>
-	<br> ➽ Goorm Training 쿠버네티스 과정 11기 수료 (23.09.08 ~ 24.01.05) </br>
+	<br> ➽ N3N Server Engineer (2024.04 ~ )</br>
+	<br> ➽ Goorm Training Kubernetes Course 11th (23.09.08 ~ 24.01.05) </br>
  	<br> ➽ ITCEN Software Architect (2022.01~2023.02)</br>
-  	<br> ➽ 경상국립대학교 컴퓨터과학과 졸업 (2015.03~2022.02)</br>
+  	<br> ➽ Gyeongsang National University Computer Science (2015.03~2022.02)</br>
 	<br/>
 </p>
 
