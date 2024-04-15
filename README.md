@@ -20,6 +20,12 @@
 	<img src="https://img.shields.io/badge/-QueryDSL-blue" 
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 	<br/>
+	<img src="https://img.shields.io/badge/-Kubernetes-blue" 
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<br/>
+	<img src="https://img.shields.io/badge/-AWS-blue" 
+	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
+	<br/>
 </div>
 
 ### ✤ SNS
