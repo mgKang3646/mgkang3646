@@ -22,7 +22,7 @@
 	<br/>
 	<img src="https://img.shields.io/badge/-Kubernetes-9cf" 
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-AWS-blue" 
+	<img src="https://img.shields.io/badge/-AWS-orange" 
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
 	<img src="https://img.shields.io/badge/-Terraform-purple" 
 	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
