@@ -5,30 +5,6 @@
 	<br> 서평 및 영화리뷰 블로그인 네이버 블로그와 기술블로그인 티스토리 블로그를 4년간 운영하고 있습니다.</br>
 </p>
 
-### ✤ 기술스택
-<div align="left">
-	<img src="https://img.shields.io/badge/-JAVA-orange" 
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-Python-9cf"
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-Spring-brightgreen"
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-SpringBoot-brightgreen" 
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-JPA-blue" 
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-QueryDSL-blue" 
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<br/>
-	<img src="https://img.shields.io/badge/-Kubernetes-9cf" 
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-AWS-orange" 
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<img src="https://img.shields.io/badge/-Terraform-purple" 
-	     style="height : 25px; margin-left : 10px; margin-right : 10px;"/>
-	<br/>
-</div>
-
 ### ✤ SNS
 <div align="left">
 	<a href="https://lordofkangs.tistory.com/">
