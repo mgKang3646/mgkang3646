@@ -22,8 +22,8 @@
 ### ✤ Profile
 <p align="left">
 	<br> ➽ Elice Cloud DevOps Engineer ( 25.09 ~ ) </br>
-	<br> ➽ N3N Infra Engineer (24.04 ~ 25.09) 
- 	<br> ➽ ITCEN Software Architect (2022.01~2023.02)
+	<br> ➽ N3N Infra Engineer (24.04 ~ 25.09) </br>
+ 	<br> ➽ ITCEN Software Architect (2022.01~2023.02) </br>
   	<br> ➽ Gyeongsang National University Computer Science (2015.03~2022.02)</br>
 	<br/>
 </p>
