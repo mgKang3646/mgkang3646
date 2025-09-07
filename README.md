@@ -21,8 +21,8 @@
 
 ### ✤ Profile
 <p align="left">
-	<br> ➽ N3N Infra Engineer (24.04 ~ ) </br>
-	<br> ➽ Goorm Training Kubernetes Course 11th (23.09.08 ~ 24.01.05) </br>
+	<br> ➽ Elice Cloud DevOps Engineer ( 25.09 ~ )
+	<br> ➽ N3N Infra Engineer (24.04 ~ 25.09) </br>
  	<br> ➽ ITCEN Software Architect (2022.01~2023.02)</br>
   	<br> ➽ Gyeongsang National University Computer Science (2015.03~2022.02)</br>
 	<br/>
